@@ -1,3 +1,5 @@
+# weebmooc-practice百度前端项目练习
+
 # WebMOOC 餐厅游戏
 
 ** 难度 ** :star::star::star: 需要具备基础知识
